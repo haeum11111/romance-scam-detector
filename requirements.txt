@@ -1,7 +1,0 @@
-streamlit
-torch
-transformers
-easyocr
-opencv-python-headless
-numpy
-Pillow
